@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# SimpleReactApp
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Built as an exercise while learning React-Redux .Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
 
